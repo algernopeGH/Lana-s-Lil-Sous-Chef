@@ -10,7 +10,7 @@ This savory and simple dish is perfect for busy parents and their little kitchen
 ## Repository Structure
 
 This repo is organized to make it easy for you to dive right into the cooking action. Here’s the layout:
-
+```
 Lana's Lil' Sous Chef/
 ├── LICENSE.md
 ├── README.md
@@ -21,3 +21,4 @@ Lana's Lil' Sous Chef/
 └── templates/
     ├── questionnaire_template.md
     └── recipe_template.md
+```
