@@ -43,10 +43,10 @@ Alright, culinary adventurers, it’s time to get sweet and savory with this *Ma
 - **Adult Supervision**: Flatten the chicken breasts if not already done. 
 - **Toddler Tip**: Have your child help pour the marinade over the chicken in a resealable bag or dish. Seal the bag or cover the dish with plastic wrap.
 - **Safety Reminder**: Explain to your child the importance of not touching raw chicken and washing hands immediately after handling.
-- **Marinating Time**: Let the chicken marinate at room temperature for about 10 minutes while you prepare the grill.
+- **Marinating Time**: Let the chicken marinate at room temperature while you preheat the grill.
 
-### Step 4: Preheat the Grill (5 minutes)
-- **Adult Supervision**: Preheat the propane grill to medium-high heat (about 375°F to 400°F).
+### Step 4: Preheat the Grill (10 minutes)
+- **Adult Supervision**: Preheat the propane grill to medium-high heat (about 375°F to 400°F). This should take about 10 minutes, which is perfect for the marinating time.
 - **Toddler Tip**: Let your child help uncover the grill and watch while you turn on the propane. 
 - **Safety Reminder**: Teach your child about propane safety—how it’s useful, but why they should be careful.
 - **Krieger’s Note**: “Propane, the silent hero of our grilling saga. Let’s show it some respect, and grill like pros.”

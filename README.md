@@ -45,3 +45,12 @@ Lana's Lil' Sous Chef/
 ## Final Words
 
 "This repo is my way of making sure that Lana spends some quality time with her kid while feeding them something that isn’t takeout. Cooking together isn’t just about making food—it’s about making memories, and maybe teaching a few life skills along the way. So, whether you’re here because you’re hungry, bored, or just looking to impress someone, welcome aboard. Let’s make some culinary magic happen!"
+<<<<<<< Updated upstream
+=======
+
+### Maple Magic Chicken
+This sweet and savory grilled chicken is perfect for a family cookout. With a delightful maple glaze and fun steps for kids to get involved, it’s a hit for both adults and children. [Check out the recipe here](recipes/chicken/maple_magic_chicken.md).
+
+### Maple Magic Chicken
+This sweet and savory grilled chicken is perfect for a family cookout. With a delightful maple glaze and fun steps for kids to get involved, it’s a hit for both adults and children. [Check out the recipe here](recipes/chicken/maple_magic_chicken.md).
+>>>>>>> Stashed changes
