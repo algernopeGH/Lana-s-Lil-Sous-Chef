@@ -46,5 +46,4 @@ Lana's Lil' Sous Chef/
 ## Final Words
 
 "This repo is my way of making sure that Lana spends some quality time with her kid while feeding them something that isn’t takeout. Cooking together isn’t just about making food—it’s about making memories, and maybe teaching a few life skills along the way. So, whether you’re here because you’re hungry, bored, or just looking to impress someone, welcome aboard. Let’s make some culinary magic happen!"
-<<<<<<< Updated upstream
 =======
