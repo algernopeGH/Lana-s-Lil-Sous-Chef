@@ -9,6 +9,9 @@ This isn’t just a cookbook—it’s a journey. A journey into the art and scie
 ### Rosemary Chicken Delight
 This savory and simple dish is perfect for busy parents and their little kitchen helpers. With a delightful rosemary aroma, creamy sauce, and easy-to-cook rice, it’s sure to be a hit. Want to make it? [Check out the recipe here](recipes/chicken/rosemary_chicken_delight.md).
 
+### Maple Magic Chicken
+This sweet and savory grilled chicken is perfect for a family cookout. With a delightful maple glaze and fun steps for kids to get involved, it’s a hit for both adults and children. [Check out the recipe here](recipes/chicken/maple_magic_chicken.md).
+
 ### Rice Cooking Basics
 Let’s start with the foundation of many great meals—rice. Whether you're cooking it in a pot, a manual rice cooker, or an automatic rice cooker, we've got you covered. And trust me, you’re going to want to master this, because nothing ruins dinner like undercooked rice. [Learn how to cook rice like a pro](recipes/rice/rice_cooking_basics.md).
 
@@ -42,6 +45,3 @@ Lana's Lil' Sous Chef/
 ## Final Words
 
 "This repo is my way of making sure that Lana spends some quality time with her kid while feeding them something that isn’t takeout. Cooking together isn’t just about making food—it’s about making memories, and maybe teaching a few life skills along the way. So, whether you’re here because you’re hungry, bored, or just looking to impress someone, welcome aboard. Let’s make some culinary magic happen!"
-
-### Maple Magic Chicken
-This sweet and savory grilled chicken is perfect for a family cookout. With a delightful maple glaze and fun steps for kids to get involved, it’s a hit for both adults and children. [Check out the recipe here](recipes/chicken/maple_magic_chicken.md).
