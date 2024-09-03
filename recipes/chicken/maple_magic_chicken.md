@@ -64,18 +64,28 @@ Alright, culinary adventurers, it’s time to get sweet and savory with this *Ma
 - **Serve**: Slice the chicken and serve with your favorite sides (e.g., Rice-A-Roni and green beans).
 - **Krieger’s Note**: “The magic isn’t just in the marinade, it’s in the time you spend together. Enjoy your creation, you’ve earned it!”
 
-## Feedback Forms
+## Parent Feedback Questionnaire
+1. **Was the recipe easy to follow?**
+   - Yes / No
+2. **Did your child enjoy participating in the cooking process?**
+   - Yes / No
+3. **Were there any steps that were challenging for you or your child?**
+   - Yes / No (If yes, please specify)
+4. **How would you rate the overall experience?**
+   - 1 (Difficult) to 5 (Very Easy)
+5. **Would you make this recipe again with your child?**
+   - Yes / No
+6. **Any suggestions for improvement?**
+   - (Open field)
 
-### For Adults:
-1. Did you find the recipe easy to follow? (Y/N)
-2. Were the instructions clear and concise? (Y/N)
-3. Did the chicken turn out as expected? (Y/N)
-4. Would you make this recipe again? (Y/N)
-5. Any suggestions to improve this recipe?
-
-### For Kids:
-1. Did you enjoy helping make the chicken? (Y/N)
-2. Was it fun to mix the ingredients? (Y/N)
-3. Did you learn something new about cooking or grilling? (Y/N)
-4. Would you like to help make this recipe again? (Y/N)
-5. What was your favorite part?
+## Child Feedback Questionnaire (Simple Yes/No Questions)
+1. **Did you have fun cooking today?**
+   - Yes / No
+2. **Was it easy to help out?**
+   - Yes / No
+3. **Did you like the food we made together?**
+   - Yes / No
+4. **Do you want to cook more meals like this?**
+   - Yes / No
+5. **Would you like to try a new recipe next time?**
+   - Yes / No
