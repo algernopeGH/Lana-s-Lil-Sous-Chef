@@ -15,8 +15,19 @@ Let’s start with the foundation of many great meals—rice. Whether you're coo
 ## Repository Structure
 
 "This repo is organized to make it easy for you to dive right into the cooking action. No guesswork, no fluff—just solid instructions and the occasional Krieger insight. Here’s the layout:"
-
-# INSERT TREE STRUCTURE HERE
+```
+Lana's Lil' Sous Chef/
+├── LICENSE.md
+├── README.md
+├── recipes/
+│   ├── chicken/
+│   │   └── rosemary_chicken_delight.md
+│   └── rice/
+│       └── rice_cooking_basics.md
+└── templates/
+    ├── questionnaire_template.md
+    └── recipe_template.md
+```
 
 ## How to Use This Repo
 
