@@ -6,7 +6,6 @@
 
 This repo is organized to make it easy for you to dive right into the cooking action. Here’s the layout:
 
-```plaintext
 Lana's Lil' Sous Chef/
 │
 ├── README.md
