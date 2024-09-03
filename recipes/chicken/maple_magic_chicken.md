@@ -1,0 +1,81 @@
+# Maple Magic Chicken
+
+## Overview:
+Alright, culinary adventurers, it’s time to get sweet and savory with this *Maple Magic Chicken*. Whether you’re a grilling master or just starting out, this recipe is your gateway to grilling greatness. Plus, it’s a perfect opportunity to get those little hands involved in the kitchen—or in this case, the backyard. Let’s fire up the grill and make some magic happen!
+
+## Ingredients:
+- **Chicken**: 
+  - 3 flattened chicken breasts
+- **Marinade**:
+  - 1/4 cup maple syrup
+  - 2 tablespoons soy sauce (or Worcestershire sauce)
+  - 1 tablespoon Dijon mustard (or yellow mustard)
+  - 1 teaspoon garlic powder
+  - 1 teaspoon onion powder
+  - 1/2 teaspoon black pepper
+  - Salt to taste
+  - (Optional) Fresh herbs like thyme or rosemary for garnish
+
+## Equipment:
+- **For the Kitchen**:
+  - Mixing bowl (medium-sized)
+  - Whisk
+  - Resealable plastic bag or shallow dish
+- **For the Grill**:
+  - Propane grill (or charcoal grill if you like making things unnecessarily difficult)
+  - Tongs
+  - Meat thermometer
+
+## Preparation Timeline:
+### Total Time: 35-45 minutes
+
+### Step 1: Mise en Place (5 minutes)
+- **Adult Supervision**: Gather all your ingredients and equipment. This includes measuring out the maple syrup, soy sauce, mustard, garlic powder, onion powder, black pepper, and salt. Make sure the chicken breasts are flattened.
+- **Toddler Tip**: Your child can help by collecting the ingredients from the fridge or pantry. This is also a great time to explain what each ingredient is and how it contributes to the recipe.
+- **Krieger’s Note**: “Mise en place—fancy French for getting your act together before the fun begins. Trust me, it’s worth it.”
+
+### Step 2: Prepare the Marinade (5 minutes)
+- **Adult Supervision**: Measure out the ingredients.
+- **Toddler Tip**: Let your little sous chef whisk together the maple syrup, soy sauce, mustard, garlic powder, onion powder, black pepper, and salt in a medium bowl. 
+- **Krieger’s Note**: “This marinade is like a symphony for your taste buds. Let the little ones mix the notes together.”
+
+### Step 3: Marinate the Chicken (10 minutes)
+- **Adult Supervision**: Flatten the chicken breasts if not already done. 
+- **Toddler Tip**: Have your child help pour the marinade over the chicken in a resealable bag or dish. Seal the bag or cover the dish with plastic wrap.
+- **Safety Reminder**: Explain to your child the importance of not touching raw chicken and washing hands immediately after handling.
+- **Marinating Time**: Let the chicken marinate at room temperature for about 10 minutes while you prepare the grill.
+
+### Step 4: Preheat the Grill (5 minutes)
+- **Adult Supervision**: Preheat the propane grill to medium-high heat (about 375°F to 400°F).
+- **Toddler Tip**: Let your child help uncover the grill and watch while you turn on the propane. 
+- **Safety Reminder**: Teach your child about propane safety—how it’s useful, but why they should be careful.
+- **Krieger’s Note**: “Propane, the silent hero of our grilling saga. Let’s show it some respect, and grill like pros.”
+
+### Step 5: Grill the Chicken (10-14 minutes)
+- **Adult Supervision**: Remove the chicken from the marinade, discarding any leftover marinade. 
+- **Grill the Chicken**: Place the chicken on the grill. Cook for about 5-7 minutes on one side without moving it too much to get those nice grill marks.
+- **Toddler Tip**: Allow your child to watch from a safe distance and maybe call out when it’s time to flip the chicken.
+- **Flip and Finish**: Flip the chicken and cook for another 5-7 minutes until fully cooked through (internal temperature should reach at least 165°F).
+- **Optional Glaze**: Brush a little extra maple syrup on top during the last minute of cooking for added glaze.
+
+### Step 6: Rest and Serve (5 minutes)
+- **Rest the Chicken**: Remove the chicken from the grill and let it rest for about 3 minutes before slicing.
+- **Toddler Tip**: While the chicken rests, your child can help set the table. 
+- **Serve**: Slice the chicken and serve with your favorite sides (e.g., Rice-A-Roni and green beans).
+- **Krieger’s Note**: “The magic isn’t just in the marinade, it’s in the time you spend together. Enjoy your creation, you’ve earned it!”
+
+## Feedback Forms
+
+### For Adults:
+1. Did you find the recipe easy to follow? (Y/N)
+2. Were the instructions clear and concise? (Y/N)
+3. Did the chicken turn out as expected? (Y/N)
+4. Would you make this recipe again? (Y/N)
+5. Any suggestions to improve this recipe?
+
+### For Kids:
+1. Did you enjoy helping make the chicken? (Y/N)
+2. Was it fun to mix the ingredients? (Y/N)
+3. Did you learn something new about cooking or grilling? (Y/N)
+4. Would you like to help make this recipe again? (Y/N)
+5. What was your favorite part?
