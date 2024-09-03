@@ -25,6 +25,7 @@ Lana's Lil' Sous Chef/
 ├── recipes/
 │   ├── chicken/
 │   │   └── rosemary_chicken_delight.md
+|   |   └── maple_magic_chicken.md
 │   └── rice/
 │       └── rice_cooking_basics.md
 └── templates/
