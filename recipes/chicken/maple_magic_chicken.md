@@ -36,7 +36,7 @@ Alright, culinary adventurers, it’s time to get sweet and savory with this *Ma
 
 ### Step 2: Prepare the Marinade (5 minutes)
 - **Adult Supervision**: Measure out the ingredients.
-- **Toddler Tip**: Let your little sous chef whisk together the maple syrup, soy sauce, mustard, garlic powder, onion powder, black pepper, and salt in a medium bowl. 
+- **Toddler Tip**: Let your little sous chef pour and then whisk together the maple syrup, soy sauce, mustard, garlic powder, onion powder, black pepper, and salt in a medium bowl. 
 - **Krieger’s Note**: “This marinade is like a symphony for your taste buds. Let the little ones mix the notes together.”
 
 ### Step 3: Marinate the Chicken (10 minutes)
