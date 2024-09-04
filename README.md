@@ -54,3 +54,6 @@ This sweet and savory grilled chicken is perfect for a family cookout. With a de
 ### Maple Magic Chicken
 This sweet and savory grilled chicken is perfect for a family cookout. With a delightful maple glaze and fun steps for kids to get involved, it’s a hit for both adults and children. [Check out the recipe here](recipes/chicken/maple_magic_chicken.md).
 >>>>>>> Stashed changes
+
+### Maple Magic Chicken
+This sweet and savory grilled chicken is perfect for a family cookout. With a delightful maple glaze and fun steps for kids to get involved, it’s a hit for both adults and children. [Check out the recipe here](recipes/chicken/maple_magic_chicken.md).
